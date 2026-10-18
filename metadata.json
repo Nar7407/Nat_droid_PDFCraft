@@ -1,0 +1,8 @@
+{
+  "name": "PdfCraft",
+  "description": "Comprehensive PDF Workbench & Editor with Bento Dashboard, File Picker, Page Organizer, Annotations, Security, and Deep Undo/Redo",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

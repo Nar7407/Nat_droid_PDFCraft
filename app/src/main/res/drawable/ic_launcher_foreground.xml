@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="1.2"
+        android:scaleY="1.2"
+        android:translateX="-10.8"
+        android:translateY="-10.8">
+        <!-- PDF Document Outline -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M38,26 L62,26 L70,34 L70,82 L38,82 Z" />
+        <!-- Folded Corner -->
+        <path
+            android:fillColor="#FEE2E2"
+            android:pathData="M62,26 L70,34 L62,34 Z" />
+        <!-- Document Text Stripes -->
+        <path
+            android:fillColor="#DC2626"
+            android:pathData="M44,42 L64,42 L64,46 L44,46 Z" />
+        <path
+            android:fillColor="#DC2626"
+            android:pathData="M44,52 L64,52 L64,56 L44,56 Z" />
+        <path
+            android:fillColor="#DC2626"
+            android:pathData="M44,62 L56,62 L56,66 L44,66 Z" />
+    </group>
+</vector>
